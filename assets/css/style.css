@@ -252,6 +252,10 @@ span.hero__text--color {
   background-color: #5050501a;
 }
 
+.learning__box img{
+  margin-bottom: 2rem;
+}
+
 .learning__box h1 {
   font-size: 2rem;
   line-height: 3rem;
